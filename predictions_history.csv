@@ -1,0 +1,4 @@
+age,sex,bmi,children,smoker,region,obese,predicted_charges
+30,male,25.0,0,no,northeast,no,
+30,male,25.0,0,no,northeast,no,
+30,male,25.0,0,no,northeast,no,
